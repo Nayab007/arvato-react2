@@ -5,3 +5,6 @@ For this project, I wanted to show  I can drag the location marker and get the a
 I also set up the .env file where I stored the API key so it won't get up-loaded to GitHub or published on the website.
 
 I would also suggest that if we are making this website for accessibility we should be careful with colors and typography. I would suggest using the library that fits the need for this. I would like to work more on this project and come up with more ideas to make this feature better for users.
+
+
+![20220201_011950](https://user-images.githubusercontent.com/55736152/151896442-c935bc6a-1e98-4cdd-95dd-3488361d765b.jpg)
